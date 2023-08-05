@@ -1,10 +1,10 @@
-# Path_to_Software_Engineering
+# Path to Software Engineering
 
-- [Path\_to\_Software\_Engineering](#path_to_software_engineering)
+- [Path to Software Engineering](#path-to-software-engineering)
   - [Programming](#programming)
   - [Algorithmic Complexity](#algorithmic-complexity)
     - [Asymptotic analysis](#asymptotic-analysis)
-  - [Big-O](#big-o)
+    - [Big-O](#big-o)
   - [Data Structures](#data-structures)
     - [Arrays](#arrays)
       - [Simple Arrays](#simple-arrays)
@@ -31,7 +31,14 @@
 - [ ] [Asymptotic analysis](#asymptotic-analysis)
 - [ ] [Big-O](#big-o)
 ### Asymptotic analysis
-## Big-O
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Big O Notations (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [ ] [Big Oh Notation (and Omega and Theta)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=3)
+- [ ] [Skiena - Analysis of Algorithms (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
+- [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+- [x] [Big-O Cheat sheet](https://www.bigocheatsheet.com/)
+
+### Big-O
   
 ## Data Structures
 - [ ] [Arrays](#arrays)
