@@ -1,5 +1,5 @@
-//Time Complexity: O(n)
-//Space Complexity: O(1)
+//Time Complexity: θ(n)
+//Space Complexity: θ(1)
 class Solution {
     public int climbStairs(int n) {
         int a = 0;
