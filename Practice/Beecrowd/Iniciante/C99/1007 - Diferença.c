@@ -1,5 +1,5 @@
-//Time Complexity: O(1)
-//Space Complexity: O(1)
+//Time Complexity: θ(1)
+//Space Complexity: θ(1)
 #include <stdio.h>
 
 int main(){
