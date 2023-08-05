@@ -1,6 +1,6 @@
 //Brute Force
-//Time Complexity: O(n²)
-//Space Complexity: O(1)
+//Time Complexity: O(n²) Ω(1)
+//Space Complexity: θ(1)
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int i = 0;
