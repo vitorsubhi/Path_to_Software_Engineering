@@ -1,6 +1,7 @@
 # Path to Software Engineering
 
 - [Path to Software Engineering](#path-to-software-engineering)
+  - [Coaching](#coaching)
   - [Programming](#programming)
   - [Algorithmic Complexity](#algorithmic-complexity)
     - [Asymptotic analysis](#asymptotic-analysis)
@@ -23,6 +24,9 @@
   - [Computer Networks](#computer-networks)
   - [Compilers](#compilers)
   - [Computer Architecture](#computer-architecture)
+
+## Coaching
+- [x] [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
 ## Programming
 - [ ] Recursion
