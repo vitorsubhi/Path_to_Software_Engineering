@@ -1,5 +1,5 @@
-//Time Complexity: O(n)
-//Space Complexity: O(1)
+//Time Complexity: θ(n)
+//Space Complexity: θ(1)
 class Solution {
     public boolean isPalindrome(int x) {
         String y = Integer.toString(x);
