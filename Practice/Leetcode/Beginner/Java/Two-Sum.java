@@ -30,7 +30,7 @@ class Solution {
             int cur = nums[i];
             int x = target - cur;
             if (map.containsKey(x)){
-                    return new int[] { map.get(x), i };
+                return new int[] { map.get(x), i };
             }
             map.put(cur, i);
         }
