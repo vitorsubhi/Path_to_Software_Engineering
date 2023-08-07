@@ -3,6 +3,7 @@
 - [Path to Software Engineering](#path-to-software-engineering)
   - [Coaching](#coaching)
   - [Programming](#programming)
+    - [Strings](#strings)
   - [Algorithmic Complexity](#algorithmic-complexity)
     - [Asymptotic analysis](#asymptotic-analysis)
     - [Big-O](#big-o)
@@ -10,6 +11,7 @@
     - [Arrays](#arrays)
       - [Simple Arrays](#simple-arrays)
       - [Multidimensional Arrays](#multidimensional-arrays)
+      - [Dynamic Arrays](#dynamic-arrays)
     - [Stack](#stack)
     - [Queue](#queue)
     - [Linked Lists](#linked-lists)
@@ -29,7 +31,11 @@
 - [x] [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
 ## Programming
+- [ ] Strings
 - [ ] Recursion
+
+### Strings
+- [ ] [CS50 2020 - Lecture 2](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=5368s)
 
 ## Algorithmic Complexity
 - [ ] [Asymptotic analysis](#asymptotic-analysis)
@@ -50,9 +56,14 @@
 - [ ] [Queue](#queue)
 - [ ] [Linked Lists](#linked-lists)
 - [ ] [Hash Table](#hash-table)
+
 ### Arrays
 #### Simple Arrays
+- [x] [CS50 2020 - Lecture 2](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3029s)
 #### Multidimensional Arrays
+- [ ] [CS 61B](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE)
+#### Dynamic Arrays
+- [ ] [Coursera](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
 ### Stack
 ### Queue
 ### Linked Lists
