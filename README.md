@@ -26,6 +26,10 @@
   - [Computer Networks](#computer-networks)
   - [Compilers](#compilers)
   - [Computer Architecture](#computer-architecture)
+- [Bibliography](#bibliography)
+  - [Interview and Programming Questions](#interview-and-programming-questions)
+  - [Algorithms](#algorithms)
+  - [Java](#java)
 
 ## Coaching
 - [x] [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
@@ -96,3 +100,16 @@
 ## Computer Networks
 ## Compilers
 ## Computer Architecture
+
+
+# Bibliography
+## Interview and Programming Questions
+- [ ] [Cracking the Coding Interview 6th - Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [ ] [Programming Interviews Exposed - John Mongan, Noah Suojanen Kindler, Eric Giguère](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview-ebook/dp/B07BSZCNKD)
+- [ ] [Cracking the Coding Interview 5th - Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+
+## Algorithms
+- [ ] [Introduction to Algorithms - Thomas H. Cormen](https://www.amazon.com.br/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844)
+
+## Java
+- [ ] [Data Structures and Algorithms in Java 6th - Goodrich](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338)
