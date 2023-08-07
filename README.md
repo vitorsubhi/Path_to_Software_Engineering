@@ -39,7 +39,7 @@
 - [ ] Recursion
 
 ### Strings
-- [ ] [CS50 2020 - Lecture 2](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=5368s)
+- [x] [CS50 2020 - Lecture 2](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=5368s)
 
 ## Algorithmic Complexity
 - [ ] [Asymptotic analysis](#asymptotic-analysis)
